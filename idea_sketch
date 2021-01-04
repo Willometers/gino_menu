@@ -1,0 +1,33 @@
+How to build a Gem via Eri
+1. Plan your gem, imagine your interface
+2. Start with the project structure - google
+3. Start with the entry point - the file run
+4. force that to build the CLI interface
+5. sun out the interface
+6. start making things real 
+7. discover projects
+8. program
+
+
+Gino's
+
+scraping URL = "https://www.ginosfayettevilleny.com/menu"
+
+call method to be called when CLI.new
+system('clear')
+Print greet - greet user
+    
+
+Main menu
+    select from:
+
+    1. Cheesesteaks
+    2. Other Sandwiches
+    3. Sides
+
+        sub menu:
+        index each Cheesesteaks/Other Sandwiches/Sides
+
+        select using the index number to display description
+
+        then start over or exit
